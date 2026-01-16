@@ -1,1 +1,2 @@
 # Graphql
+GraphQL is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data. The GraphQL specification was open-sourced in 2015 and has since been implemented in a variety of programming languages. GraphQL isn’t tied to any specific database or storage engine—it is backed by your existing code and data.
