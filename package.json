@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@graphql-tools/schema": "^10.0.31",
     "@prisma/client": "^6.2.1",
     "express": "^5.2.1",
     "express-graphql": "^0.12.0",

@@ -1,6 +1,4 @@
-import { buildSchema } from "graphql";
-
-export const schema = buildSchema(`
+export const typeDefs = `
   type User {
     id: ID!
     username: String!
@@ -38,4 +36,4 @@ export const schema = buildSchema(`
     posts: [Post!]
     post(id: ID!): Post
   }
-`);
+`;
